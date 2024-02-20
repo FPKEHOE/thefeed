@@ -1,7 +1,7 @@
 body {
     background-color:greenyellow;
     text-align: center;
-    font-family "Indie Flower", cursive;
+    font-family: "Kdam Thmor Pro", sans-serif;
     font-weight: 400;
     font-style: normal
 }
@@ -10,7 +10,7 @@ h1{
     background-color:greenyellow;
     color:tomato;
     font-size: 50px;
-    font-family "Indie Flower", cursive;
+    font-family: "Kdam Thmor Pro", sans-serif;
     font-weight: 400;
     font-style: normal
 }
@@ -19,7 +19,7 @@ nav a {
     text-decoration: none;
     color:green;
     font-size: 30px
-    font-family "Indie Flower", cursive;
+    font-family: "Kdam Thmor Pro", sans-serif;
     font-weight: 400;
     font-style: normal
 }
