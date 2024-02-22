@@ -1,9 +1,9 @@
 body {
-    background-image: linear-gradient(#51361a, #332211);
+    background-image: linear-gradient(#714424, #2f1a11);
   }
 
 figcaption {
-    color: green;
+    color: #3f9b0b;
     font-size:30px;
     font-family: "Kdam Thmor Pro", sans-serif;
     font-weight: 400;
@@ -17,8 +17,8 @@ body {
 }
 
 h1{
-    color:green;
-    font-size: 50px;
+    color: #3f9b0b;
+    font-size: 70px;
     font-family: "Kdam Thmor Pro", sans-serif;
     font-weight: 400;
     font-style: normal
@@ -26,9 +26,24 @@ h1{
 
 nav a {
     text-decoration: none;
-    color:green;
+    color: #3f9b0b;
     font-size: 30px
     font-family: "Kdam Thmor Pro", sans-serif;
     font-weight: 400;
     font-style: normal
+}
+
+img{
+    width: 295px;
+    height: 600px;
+}
+
+#findphone{
+    width: 600px;
+    height: 375px;
+}
+
+#netflix{
+    width:
+    height:
 }

@@ -1,5 +1,5 @@
 body {
-    background-color:greenyellow;
+    background-color: #3f9b0b;
     text-align: center;
     font-family: "Kdam Thmor Pro", sans-serif;
     font-weight: 400;
@@ -7,8 +7,8 @@ body {
 }
 
 h1{
-    background-color:greenyellow;
-    color:tomato;
+    background-color:#3f9b0b;
+    color: #de0a26;
     font-size: 50px;
     font-family: "Kdam Thmor Pro", sans-serif;
     font-weight: 400;
@@ -28,3 +28,4 @@ img{
     width: 450px;
     height: 629px;
 }
+
