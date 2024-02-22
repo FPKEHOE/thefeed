@@ -1,9 +1,9 @@
 body {
-    background-image: linear-gradient(#714424, #2f1a11);
+    background-image: linear-gradient(#7c5b45, #280600);
   }
 
 figcaption {
-    color: #3f9b0b;
+    color: bisque;
     font-size:30px;
     font-family: "Kdam Thmor Pro", sans-serif;
     font-weight: 400;
@@ -17,12 +17,11 @@ body {
 }
 
 h1{
-    color: #3f9b0b;
+    color: #38ff14;
     font-size: 70px;
     font-family: "Kdam Thmor Pro", sans-serif;
-    font-weight: 400;
-    font-style: normal
-    text-align: center
+    font-style: normal;
+    text-align: center;
 }
 
 nav a {
@@ -58,10 +57,14 @@ article{
 figure{
     margin-top: 200px;
     margin-bottom: 200px;
+    border-style: dashed;
+    border-color: bisque;
+    border-width: 10px;
+    padding: 30px 30px 30px 30px;
+    
 }
 
 img{
     height: 80px;
     width: 100px;
-    margin-left: 100px;
 }
