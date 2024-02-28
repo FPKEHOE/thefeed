@@ -2,7 +2,7 @@ body {
     background-image: linear-gradient(#996039, #230e08);
   }
 
-figcaption {
+.caption {
     color: bisque;
     font-size:30px;
     font-family: "Kdam Thmor Pro", sans-serif;
@@ -22,6 +22,7 @@ h1{
     font-family: "Kdam Thmor Pro", sans-serif;
     font-style: normal;
     text-align: center;
+    margin-top:100px;
 }
 
 nav a {
@@ -54,16 +55,6 @@ article{
     text-align: center;
 }
 
-figure{
-    margin-top: 200px;
-    margin-bottom: 200px;
-    border-style: dashed;
-    border-color: #38ff14;
-    border-width: 10px;
-    padding: 30px 30px 30px 30px;
-    
-}
-
 img{
     height: 80px;
     width: 100px;
@@ -72,4 +63,148 @@ img{
 #lava{
     height: auto;
     width: auto;
+}
+
+#rolypolygif{
+    height:140px;
+    width:100px;
+}
+
+#backbutton{
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.grass{
+    height:199px;
+    width:300px;
+}
+
+header{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+    justify-content: center;
+    align-items:flex-end;
+}
+
+#first{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+    border-style: dashed;
+    border-color: #38ff14;
+    border-width: 10px;
+    padding: 30px 30px 30px 30px;
+}
+
+#second{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+    border-style: dashed;
+    border-color: #38ff14;
+    border-width: 10px;
+    padding: 30px 30px 30px 30px;
+}
+
+#third{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+    border-style: dashed;
+    border-color: #38ff14;
+    border-width: 10px;
+    padding: 30px 30px 30px 30px;
+}
+
+#fourth{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+    border-style: dashed;
+    border-color: #38ff14;
+    border-width: 10px;
+    padding: 30px 30px 30px 30px;
+}
+
+#fifth{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+    border-style: dashed;
+    border-color: #38ff14;
+    border-width: 10px;
+    padding: 30px 30px 30px 30px;
+}
+
+#sixth{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+    border-style: dashed;
+    border-color: #38ff14;
+    border-width: 10px;
+    padding: 30px 30px 30px 30px;
+}
+
+#seventh{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+    border-style: dashed;
+    border-color: #38ff14;
+    border-width: 10px;
+    padding: 30px 30px 30px 30px;
+}
+
+#eighth{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+    border-style: dashed;
+    border-color: #38ff14;
+    border-width: 10px;
+    padding: 30px 30px 30px 30px;
+}
+
+#ninth{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+    border-style: dashed;
+    border-color: #38ff14;
+    border-width: 10px;
+    padding: 30px 30px 30px 30px;
+}
+
+#tenth{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+    border-style: dashed;
+    border-color: #38ff14;
+    border-width: 10px;
+    padding: 30px 30px 30px 30px;
+}
+
+#eleventh{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 200px;
+    border-style: dashed;
+    border-color: #38ff14;
+    border-width: 10px;
+    padding: 30px 30px 30px 30px;
 }
