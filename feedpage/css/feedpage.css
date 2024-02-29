@@ -3,7 +3,7 @@ body {
   }
 
 .caption {
-    color: bisque;
+    color: #38ff14;
     font-size:30px;
     font-family: "Kdam Thmor Pro", sans-serif;
     font-weight: 400;
@@ -17,12 +17,12 @@ body {
 }
 
 h1{
-    color: #38ff14;
+    color: black;
     font-size: 70px;
     font-family: "Kdam Thmor Pro", sans-serif;
     font-style: normal;
     text-align: center;
-    margin-top:70px;
+    margin-top:10px;
 }
 
 nav a {
@@ -72,7 +72,7 @@ img{
 }
 
 #backbutton{
-    margin-left: 70px;
+    margin-left: 100px;
     margin-top: 0px;
 }
 
@@ -99,6 +99,7 @@ header{
     border-color: #38ff14;
     border-width: 10px;
     padding: 30px 30px 30px 30px;
+    align-items: center;
 }
 
 #second{
@@ -110,6 +111,7 @@ header{
     border-color: #38ff14;
     border-width: 10px;
     padding: 30px 30px 30px 30px;
+    align-items: center;
 }
 
 #third{
@@ -121,6 +123,7 @@ header{
     border-color: #38ff14;
     border-width: 10px;
     padding: 30px 30px 30px 30px;
+    align-items: center;
 }
 
 #fourth{
@@ -132,6 +135,7 @@ header{
     border-color: #38ff14;
     border-width: 10px;
     padding: 30px 30px 30px 30px;
+    align-items: center;
 }
 
 #fifth{
@@ -143,6 +147,7 @@ header{
     border-color: #38ff14;
     border-width: 10px;
     padding: 30px 30px 30px 30px;
+    align-items: center;
 }
 
 #sixth{
@@ -154,6 +159,7 @@ header{
     border-color: #38ff14;
     border-width: 10px;
     padding: 30px 30px 30px 30px;
+    align-items: center;
 }
 
 #seventh{
@@ -165,6 +171,7 @@ header{
     border-color: #38ff14;
     border-width: 10px;
     padding: 30px 30px 30px 30px;
+    align-items: center;
 }
 
 #eighth{
@@ -176,6 +183,7 @@ header{
     border-color: #38ff14;
     border-width: 10px;
     padding: 30px 30px 30px 30px;
+    align-items: center;
 }
 
 #ninth{
@@ -187,6 +195,7 @@ header{
     border-color: #38ff14;
     border-width: 10px;
     padding: 30px 30px 30px 30px;
+    align-items: center;
 }
 
 #tenth{
@@ -198,6 +207,7 @@ header{
     border-color: #38ff14;
     border-width: 10px;
     padding: 30px 30px 30px 30px;
+    align-items: center;
 }
 
 #eleventh{
@@ -209,6 +219,7 @@ header{
     border-color: #38ff14;
     border-width: 10px;
     padding: 30px 30px 30px 30px;
+    align-items: center;
 }
 
 #rock{
@@ -249,5 +260,13 @@ header{
 #grass3{
     height:199px;
     width:auto;
-    text-align: center;
+    margin-left: 130px;
+
 }
+
+#realheading{
+    display:flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
